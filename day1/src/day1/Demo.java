@@ -5,6 +5,8 @@ interface Parser
 	String parse(String str);
 	
 }
+
+//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
 class StringParser 
 {
 	public static String convert(String s)
